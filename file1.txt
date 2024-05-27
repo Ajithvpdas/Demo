@@ -6,3 +6,5 @@ This is the second commit from the github
 This commit is from the dev branch
 
 I have committed it after merging the file from the dev branch
+
+This is a commit from the GitHub and branch dev
